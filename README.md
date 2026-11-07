@@ -113,5 +113,5 @@ Le script n'envoie aucune donnée personnelle : seuls les **titres des films** s
 
 ## 📄 Licence
 
-[MIT](LICENSE) — libre à vous de l'utiliser, le modifier et le partager.
+[Unlicence](LICENSE) — Code généré par IA (Claude), libre à vous de l'utiliser, le modifier et le partager.
 
